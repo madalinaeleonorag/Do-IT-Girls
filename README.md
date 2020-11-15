@@ -1,4 +1,4 @@
-# Smile Sharing - Ride sharing app
+# SmileSharing App - Do IT Girls! Hackathon. Powered by Microsoft
 
 Ride sharing application created using HTML, Vue.js, Vuetify, JavaScript and Google Maps.
 
